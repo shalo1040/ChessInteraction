@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/Scene02_Interaction_20191023.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

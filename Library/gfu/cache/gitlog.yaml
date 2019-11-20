@@ -1,0 +1,2702 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-11-05T22:23:28.676+09:00
+  initializedAtString: 2019-11-05T22:12:44.926+09:00
+  log:
+  - commitID: 64b91af804fdc7c344abfe70c2a3c19539898cc8
+    mergeA: 
+    mergeB: 
+    authorName: shalo1040
+    authorEmail: 53967900+shalo1040@users.noreply.github.com
+    commitEmail: 53967900+shalo1040@users.noreply.github.com
+    commitName: shalo1040
+    summary: initial
+    description: initial
+    timeString: 2019-11-05T22:21:20.000+09:00
+    commitTimeString: 2019-11-05T22:21:20.000+09:00
+    changes:
+    - path: Packages\manifest.json
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\AR Programming\lab01\ChessInteraction\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\AR Programming\lab01\ChessInteraction\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\AR Programming\lab01\ChessInteraction\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\AR Programming\lab01\ChessInteraction\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\AR Programming\lab01\ChessInteraction\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\AR Programming\lab01\ChessInteraction\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\AR Programming\lab01\ChessInteraction\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\AR Programming\lab01\ChessInteraction\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\AR Programming\lab01\ChessInteraction\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: C:\AR Programming\lab01\ChessInteraction\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\AR Programming\lab01\ChessInteraction\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\AR Programming\lab01\ChessInteraction\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\AR Programming\lab01\ChessInteraction\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\AR Programming\lab01\ChessInteraction\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\AR Programming\lab01\ChessInteraction\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\AR Programming\lab01\ChessInteraction\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: C:\AR Programming\lab01\ChessInteraction\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\XRSettings.asset
+      fullPath: C:\AR Programming\lab01\ChessInteraction\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: QCAR\somedata16
+      fullPath: C:\AR Programming\lab01\ChessInteraction\QCAR\somedata16
+      projectPath: QCAR\somedata16
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 85f0464a23b9fc6c6e4a544a4286babfad9f52e3
+    mergeA: 
+    mergeB: 
+    authorName: shalo1040
+    authorEmail: 53967900+shalo1040@users.noreply.github.com
+    commitEmail: 53967900+shalo1040@users.noreply.github.com
+    commitName: shalo1040
+    summary: ChessInteraction
+    description: basic movements
+    timeString: 2019-11-05T22:19:17.000+09:00
+    commitTimeString: 2019-11-05T22:19:17.000+09:00
+    changes:
+    - path: Assets\Animations.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Animations.meta
+      projectPath: Assets\Animations.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\RotateAnim.anim
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Animations\RotateAnim.anim
+      projectPath: Assets\Animations\RotateAnim.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\RotateAnim.anim.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Animations\RotateAnim.anim.meta
+      projectPath: Assets\Animations\RotateAnim.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\White Stone Rook.controller
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Animations\White Stone
+        Rook.controller
+      projectPath: Assets\Animations\White Stone Rook.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\White Stone Rook.controller.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Animations\White Stone
+        Rook.controller.meta
+      projectPath: Assets\Animations\White Stone Rook.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Editor.meta
+      projectPath: Assets\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Editor\Vuforia.meta
+      projectPath: Assets\Editor\Vuforia.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Editor\Vuforia\ImageTargetTextures.meta
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\Chess.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Editor\Vuforia\ImageTargetTextures\Chess.meta
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\Chess.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\Chess\Materials.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Editor\Vuforia\ImageTargetTextures\Chess\Materials.meta
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\Chess\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\Chess\Materials\chess_scaled.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Editor\Vuforia\ImageTargetTextures\Chess\Materials\chess_scaled.mat
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\Chess\Materials\chess_scaled.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\Chess\Materials\chess_scaled.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Editor\Vuforia\ImageTargetTextures\Chess\Materials\chess_scaled.mat.meta
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\Chess\Materials\chess_scaled.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\Chess\chess_scaled.jpg
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Editor\Vuforia\ImageTargetTextures\Chess\chess_scaled.jpg
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\Chess\chess_scaled.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\Chess\chess_scaled.jpg.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Editor\Vuforia\ImageTargetTextures\Chess\chess_scaled.jpg.meta
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\Chess\chess_scaled.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Images.meta
+      projectPath: Assets\Images.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\chess.jpg
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Images\chess.jpg
+      projectPath: Assets\Images\chess.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Images\chess.jpg.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Images\chess.jpg.meta
+      projectPath: Assets\Images\chess.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Materials.meta
+      projectPath: Assets\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\chess.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Materials\chess.mat
+      projectPath: Assets\Materials\chess.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\chess.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Materials\chess.mat.meta
+      projectPath: Assets\Materials\chess.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Resources.meta
+      projectPath: Assets\Resources.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\VuforiaConfiguration.asset
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Resources\VuforiaConfiguration.asset
+      projectPath: Assets\Resources\VuforiaConfiguration.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\VuforiaConfiguration.asset.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Resources\VuforiaConfiguration.asset.meta
+      projectPath: Assets\Resources\VuforiaConfiguration.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Scene01_Basic_20191023.unity
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Scenes\Scene01_Basic_20191023.unity
+      projectPath: Assets\Scenes\Scene01_Basic_20191023.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Scene01_Basic_20191023.unity.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Scenes\Scene01_Basic_20191023.unity.meta
+      projectPath: Assets\Scenes\Scene01_Basic_20191023.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Scene02_Interaction_20191023.unity
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Scenes\Scene02_Interaction_20191023.unity
+      projectPath: Assets\Scenes\Scene02_Interaction_20191023.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Scene02_Interaction_20191023.unity.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Scenes\Scene02_Interaction_20191023.unity.meta
+      projectPath: Assets\Scenes\Scene02_Interaction_20191023.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\MoveChess.cs
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Scripts\MoveChess.cs
+      projectPath: Assets\Scripts\MoveChess.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\MoveChess.cs.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Scripts\MoveChess.cs.meta
+      projectPath: Assets\Scripts\MoveChess.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\RotateChess.cs
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Scripts\RotateChess.cs
+      projectPath: Assets\Scripts\RotateChess.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\RotateChess.cs.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Scripts\RotateChess.cs.meta
+      projectPath: Assets\Scripts\RotateChess.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\StreamingAssets.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\StreamingAssets.meta
+      projectPath: Assets\StreamingAssets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\StreamingAssets\Vuforia.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\StreamingAssets\Vuforia.meta
+      projectPath: Assets\StreamingAssets\Vuforia.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\StreamingAssets\Vuforia\Chess.dat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\StreamingAssets\Vuforia\Chess.dat
+      projectPath: Assets\StreamingAssets\Vuforia\Chess.dat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\StreamingAssets\Vuforia\Chess.dat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\StreamingAssets\Vuforia\Chess.dat.meta
+      projectPath: Assets\StreamingAssets\Vuforia\Chess.dat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\StreamingAssets\Vuforia\Chess.xml
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\StreamingAssets\Vuforia\Chess.xml
+      projectPath: Assets\StreamingAssets\Vuforia\Chess.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\StreamingAssets\Vuforia\Chess.xml.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\StreamingAssets\Vuforia\Chess.xml.meta
+      projectPath: Assets\StreamingAssets\Vuforia\Chess.xml.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Textures.meta
+      projectPath: Assets\Textures.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Demo.unity
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Demo.unity
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Demo.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Demo.unity.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Demo.unity.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Demo.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Chess Piece.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stoe White Bishop
+        mtl.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Chess Piece\Stoe White Bishop mtl.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stoe
+        White Bishop mtl.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stoe White Bishop
+        mtl.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Chess Piece\Stoe White Bishop mtl.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stoe
+        White Bishop mtl.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Ston White Pawn
+        mtl.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Chess Piece\Ston White Pawn mtl.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Ston
+        White Pawn mtl.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Ston White Pawn
+        mtl.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Chess Piece\Ston White Pawn mtl.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Ston
+        White Pawn mtl.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone Black
+        Bishop mtl.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Chess Piece\Stone Black Bishop mtl.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone
+        Black Bishop mtl.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone Black
+        Bishop mtl.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Chess Piece\Stone Black Bishop mtl.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone
+        Black Bishop mtl.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone Black
+        Horse.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Chess Piece\Stone Black Horse.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone
+        Black Horse.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone Black
+        Horse.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Chess Piece\Stone Black Horse.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone
+        Black Horse.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone Black
+        King mtl.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Chess Piece\Stone Black King mtl.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone
+        Black King mtl.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone Black
+        King mtl.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Chess Piece\Stone Black King mtl.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone
+        Black King mtl.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone Black
+        Pawn mtl.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Chess Piece\Stone Black Pawn mtl.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone
+        Black Pawn mtl.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone Black
+        Pawn mtl.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Chess Piece\Stone Black Pawn mtl.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone
+        Black Pawn mtl.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone Black
+        Queen mtl.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Chess Piece\Stone Black Queen mtl.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone
+        Black Queen mtl.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone Black
+        Queen mtl.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Chess Piece\Stone Black Queen mtl.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone
+        Black Queen mtl.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone Black
+        Rook mtl.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Chess Piece\Stone Black Rook mtl.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone
+        Black Rook mtl.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone Black
+        Rook mtl.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Chess Piece\Stone Black Rook mtl.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone
+        Black Rook mtl.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone White
+        Horse.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Chess Piece\Stone White Horse.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone
+        White Horse.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone White
+        Horse.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Chess Piece\Stone White Horse.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone
+        White Horse.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone White
+        King Mtl.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Chess Piece\Stone White King Mtl.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone
+        White King Mtl.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone White
+        King Mtl.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Chess Piece\Stone White King Mtl.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone
+        White King Mtl.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone White
+        Queen mtl.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Chess Piece\Stone White Queen mtl.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone
+        White Queen mtl.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone White
+        Queen mtl.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Chess Piece\Stone White Queen mtl.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone
+        White Queen mtl.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone White
+        Rook mtl.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Chess Piece\Stone White Rook mtl.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone
+        White Rook mtl.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone White
+        Rook mtl.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Chess Piece\Stone White Rook mtl.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Chess Piece\Stone
+        White Rook mtl.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Environment.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Environment.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Environment.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Environment\Black Flag.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Environment\Black Flag.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Environment\Black
+        Flag.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Environment\Black Flag.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Environment\Black Flag.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Environment\Black
+        Flag.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Environment\Flagpole.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Environment\Flagpole.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Environment\Flagpole.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Environment\Flagpole.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Environment\Flagpole.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Environment\Flagpole.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Environment\Stone Bridge.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Environment\Stone Bridge.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Environment\Stone
+        Bridge.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Environment\Stone Bridge.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Environment\Stone Bridge.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Environment\Stone
+        Bridge.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Environment\Stone Chess
+        Field.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Environment\Stone Chess Field.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Environment\Stone
+        Chess Field.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Environment\Stone Chess
+        Field.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Environment\Stone Chess Field.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Environment\Stone
+        Chess Field.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Environment\Stone Pillars.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Environment\Stone Pillars.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Environment\Stone
+        Pillars.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Environment\Stone Pillars.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Environment\Stone Pillars.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Environment\Stone
+        Pillars.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Environment\White Flag.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Environment\White Flag.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Environment\White
+        Flag.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Environment\White Flag.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Environment\White Flag.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Environment\White
+        Flag.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Icons.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Icons.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Icons.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\Black Bishop Icon.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Icons\Black Bishop Icon.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\Black Bishop
+        Icon.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\Black Bishop Icon.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Icons\Black Bishop Icon.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\Black Bishop
+        Icon.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\Black Horse Icon.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Icons\Black Horse Icon.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\Black Horse
+        Icon.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\Black Horse Icon.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Icons\Black Horse Icon.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\Black Horse
+        Icon.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\Black King Icon.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Icons\Black King Icon.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\Black King
+        Icon.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\Black King Icon.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Icons\Black King Icon.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\Black King
+        Icon.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\Black Pawn Icon.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Icons\Black Pawn Icon.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\Black Pawn
+        Icon.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\Black Pawn Icon.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Icons\Black Pawn Icon.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\Black Pawn
+        Icon.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\Black Queen Icon.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Icons\Black Queen Icon.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\Black Queen
+        Icon.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\Black Queen Icon.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Icons\Black Queen Icon.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\Black Queen
+        Icon.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\Black Rook Icon.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Icons\Black Rook Icon.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\Black Rook
+        Icon.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\Black Rook Icon.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Icons\Black Rook Icon.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\Black Rook
+        Icon.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\White Bishop Icon.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Icons\White Bishop Icon.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\White Bishop
+        Icon.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\White Bishop Icon.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Icons\White Bishop Icon.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\White Bishop
+        Icon.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\White Horse Icon.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Icons\White Horse Icon.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\White Horse
+        Icon.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\White Horse Icon.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Icons\White Horse Icon.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\White Horse
+        Icon.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\White King Icon.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Icons\White King Icon.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\White King
+        Icon.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\White King Icon.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Icons\White King Icon.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\White King
+        Icon.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\White Pawn Icon.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Icons\White Pawn Icon.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\White Pawn
+        Icon.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\White Pawn Icon.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Icons\White Pawn Icon.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\White Pawn
+        Icon.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\White Queen Icon.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Icons\White Queen Icon.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\White Queen
+        Icon.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\White Queen Icon.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Icons\White Queen Icon.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\White Queen
+        Icon.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\White Rook Icon.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Icons\White Rook Icon.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\White Rook
+        Icon.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\White Rook Icon.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Icons\White Rook Icon.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Icons\White Rook
+        Icon.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Sky.mat
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Sky.mat
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Sky.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Materials\Sky.mat.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Materials\Sky.mat.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Materials\Sky.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Chess piece.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Chess piece.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Chess piece.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Chess piece\Stone Bishop.fbx
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Chess piece\Stone Bishop.fbx
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Chess piece\Stone Bishop.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Chess piece\Stone Bishop.fbx.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Chess piece\Stone Bishop.fbx.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Chess piece\Stone Bishop.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Chess piece\Stone Horse.fbx
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Chess piece\Stone Horse.fbx
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Chess piece\Stone Horse.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Chess piece\Stone Horse.fbx.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Chess piece\Stone Horse.fbx.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Chess piece\Stone Horse.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Chess piece\Stone King.fbx
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Chess piece\Stone King.fbx
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Chess piece\Stone King.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Chess piece\Stone King.fbx.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Chess piece\Stone King.fbx.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Chess piece\Stone King.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Chess piece\Stone Pawn.fbx
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Chess piece\Stone Pawn.fbx
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Chess piece\Stone Pawn.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Chess piece\Stone Pawn.fbx.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Chess piece\Stone Pawn.fbx.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Chess piece\Stone Pawn.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Chess piece\Stone Queen.fbx
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Chess piece\Stone Queen.fbx
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Chess piece\Stone Queen.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Chess piece\Stone Queen.fbx.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Chess piece\Stone Queen.fbx.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Chess piece\Stone Queen.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Chess piece\Stone Rook.fbx
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Chess piece\Stone Rook.fbx
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Chess piece\Stone Rook.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Chess piece\Stone Rook.fbx.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Chess piece\Stone Rook.fbx.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Chess piece\Stone Rook.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Environment.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Environment.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Environment.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Environment\Flag.fbx
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Environment\Flag.fbx
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Environment\Flag.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Environment\Flag.fbx.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Environment\Flag.fbx.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Environment\Flag.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Environment\Flagpole.fbx
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Environment\Flagpole.fbx
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Environment\Flagpole.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Environment\Flagpole.fbx.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Environment\Flagpole.fbx.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Environment\Flagpole.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Environment\Sky.fbx
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Environment\Sky.fbx
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Environment\Sky.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Environment\Sky.fbx.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Environment\Sky.fbx.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Environment\Sky.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Environment\Stone Bridge.fbx
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Environment\Stone Bridge.fbx
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Environment\Stone Bridge.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Environment\Stone Bridge.fbx.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Environment\Stone Bridge.fbx.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Environment\Stone Bridge.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Environment\Stone Chess Field.fbx
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Environment\Stone Chess Field.fbx
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Environment\Stone Chess
+        Field.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Environment\Stone Chess Field.fbx.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Environment\Stone Chess Field.fbx.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Environment\Stone Chess
+        Field.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Environment\Stone Pillar.fbx
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Environment\Stone Pillar.fbx
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Environment\Stone Pillar.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Environment\Stone Pillar.fbx.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Environment\Stone Pillar.fbx.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Environment\Stone Pillar.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Icon.fbx
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Icon.fbx
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Icon.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Models\Icon.fbx.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Models\Icon.fbx.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Models\Icon.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Chess piece.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\Black Stone Bishop.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Chess piece\Black Stone Bishop.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\Black Stone
+        Bishop.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\Black Stone Bishop.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Chess piece\Black Stone Bishop.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\Black Stone
+        Bishop.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\Black Stone Horse.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Chess piece\Black Stone Horse.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\Black Stone
+        Horse.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\Black Stone Horse.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Chess piece\Black Stone Horse.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\Black Stone
+        Horse.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\Black Stone King.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Chess piece\Black Stone King.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\Black Stone
+        King.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\Black Stone King.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Chess piece\Black Stone King.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\Black Stone
+        King.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\Black Stone Pawn.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Chess piece\Black Stone Pawn.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\Black Stone
+        Pawn.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\Black Stone Pawn.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Chess piece\Black Stone Pawn.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\Black Stone
+        Pawn.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\Black Stone Queen.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Chess piece\Black Stone Queen.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\Black Stone
+        Queen.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\Black Stone Queen.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Chess piece\Black Stone Queen.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\Black Stone
+        Queen.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\Black Stone Rook.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Chess piece\Black Stone Rook.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\Black Stone
+        Rook.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\Black Stone Rook.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Chess piece\Black Stone Rook.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\Black Stone
+        Rook.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\White Stone Bishop.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Chess piece\White Stone Bishop.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\White Stone
+        Bishop.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\White Stone Bishop.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Chess piece\White Stone Bishop.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\White Stone
+        Bishop.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\White Stone Horse.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Chess piece\White Stone Horse.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\White Stone
+        Horse.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\White Stone Horse.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Chess piece\White Stone Horse.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\White Stone
+        Horse.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\White Stone King.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Chess piece\White Stone King.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\White Stone
+        King.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\White Stone King.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Chess piece\White Stone King.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\White Stone
+        King.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\White Stone Pawn.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Chess piece\White Stone Pawn.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\White Stone
+        Pawn.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\White Stone Pawn.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Chess piece\White Stone Pawn.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\White Stone
+        Pawn.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\White Stone Queen.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Chess piece\White Stone Queen.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\White Stone
+        Queen.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\White Stone Queen.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Chess piece\White Stone Queen.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\White Stone
+        Queen.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\White Stone Rook.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Chess piece\White Stone Rook.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\White Stone
+        Rook.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\White Stone Rook.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Chess piece\White Stone Rook.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Chess piece\White Stone
+        Rook.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Environment.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Bridge_Element_1.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Environment\Bridge_Element_1.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Bridge_Element_1.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Bridge_Element_1.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Environment\Bridge_Element_1.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Bridge_Element_1.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Chess Battlefield
+        2.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Environment\Chess Battlefield 2.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Chess Battlefield
+        2.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Chess Battlefield
+        2.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Environment\Chess Battlefield 2.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Chess Battlefield
+        2.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Flagpole Black.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Environment\Flagpole Black.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Flagpole
+        Black.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Flagpole Black.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Environment\Flagpole Black.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Flagpole
+        Black.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Flagpole White.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Environment\Flagpole White.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Flagpole
+        White.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Flagpole White.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Environment\Flagpole White.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Flagpole
+        White.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Stone Pillars
+        Element 11.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Environment\Stone Pillars Element 11.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Stone Pillars
+        Element 11.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Stone Pillars
+        Element 11.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Environment\Stone Pillars Element 11.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Stone Pillars
+        Element 11.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Stone Pillars
+        Element 16.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Environment\Stone Pillars Element 16.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Stone Pillars
+        Element 16.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Stone Pillars
+        Element 16.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Environment\Stone Pillars Element 16.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Stone Pillars
+        Element 16.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Stone Pillars
+        Element 5.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Environment\Stone Pillars Element 5.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Stone Pillars
+        Element 5.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Stone Pillars
+        Element 5.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Environment\Stone Pillars Element 5.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Stone Pillars
+        Element 5.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Stone Pillars
+        Element 6.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Environment\Stone Pillars Element 6.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Stone Pillars
+        Element 6.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Stone Pillars
+        Element 6.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Environment\Stone Pillars Element 6.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Stone Pillars
+        Element 6.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Stone Pillars
+        Element 8.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Environment\Stone Pillars Element 8.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Stone Pillars
+        Element 8.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Stone Pillars
+        Element 8.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Environment\Stone Pillars Element 8.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Stone Pillars
+        Element 8.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Stone Pillars
+        Element 9.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Environment\Stone Pillars Element 9.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Stone Pillars
+        Element 9.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Stone Pillars
+        Element 9.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Environment\Stone Pillars Element 9.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Environment\Stone Pillars
+        Element 9.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Icons.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\Black Bishop Icon.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Icons\Black Bishop Icon.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\Black Bishop
+        Icon.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\Black Bishop Icon.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Icons\Black Bishop Icon.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\Black Bishop
+        Icon.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\Black Horse Icon.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Icons\Black Horse Icon.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\Black Horse Icon.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\Black Horse Icon.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Icons\Black Horse Icon.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\Black Horse Icon.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\Black King Icon.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Icons\Black King Icon.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\Black King Icon.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\Black King Icon.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Icons\Black King Icon.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\Black King Icon.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\Black Pawn Icon .prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Icons\Black Pawn Icon .prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\Black Pawn Icon
+        .prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\Black Pawn Icon .prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Icons\Black Pawn Icon .prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\Black Pawn Icon
+        .prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\Black Queen Icon.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Icons\Black Queen Icon.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\Black Queen Icon.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\Black Queen Icon.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Icons\Black Queen Icon.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\Black Queen Icon.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\Black Rook Icon.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Icons\Black Rook Icon.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\Black Rook Icon.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\Black Rook Icon.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Icons\Black Rook Icon.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\Black Rook Icon.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\White Bishop Icon.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Icons\White Bishop Icon.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\White Bishop
+        Icon.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\White Bishop Icon.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Icons\White Bishop Icon.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\White Bishop
+        Icon.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\White Horse Icon.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Icons\White Horse Icon.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\White Horse Icon.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\White Horse Icon.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Icons\White Horse Icon.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\White Horse Icon.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\White King Icon.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Icons\White King Icon.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\White King Icon.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\White King Icon.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Icons\White King Icon.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\White King Icon.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\White Pawn Icon.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Icons\White Pawn Icon.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\White Pawn Icon.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\White Pawn Icon.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Icons\White Pawn Icon.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\White Pawn Icon.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\White Queen Icon.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Icons\White Queen Icon.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\White Queen Icon.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\White Queen Icon.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Icons\White Queen Icon.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\White Queen Icon.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\White Rook Icon.prefab
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Icons\White Rook Icon.prefab
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\White Rook Icon.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\White Rook Icon.prefab.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Prefabs\Icons\White Rook Icon.prefab.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Prefabs\Icons\White Rook Icon.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Readme Eng.txt
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Readme Eng.txt
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Readme Eng.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Readme Eng.txt.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Readme Eng.txt.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Readme Eng.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Add.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Add.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Add.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Add\Sky.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Add\Sky.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Add\Sky.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Add\Sky.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Add\Sky.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Add\Sky.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Black Bishop.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\Black Bishop.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Black
+        Bishop.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Black Bishop.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\Black Bishop.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Black
+        Bishop.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Black Horse.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\Black Horse.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Black
+        Horse.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Black Horse.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\Black Horse.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Black
+        Horse.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Black King.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\Black King.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Black
+        King.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Black King.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\Black King.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Black
+        King.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Black Pawn.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\Black Pawn.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Black
+        Pawn.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Black Pawn.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\Black Pawn.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Black
+        Pawn.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Black Queen.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\Black Queen.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Black
+        Queen.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Black Queen.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\Black Queen.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Black
+        Queen.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Black Rook.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\Black Rook.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Black
+        Rook.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Black Rook.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\Black Rook.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Black
+        Rook.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Normal.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\Normal.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Normal.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Normal\Stone
+        Bishop Normal.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\Normal\Stone Bishop Normal.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Normal\Stone
+        Bishop Normal.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Normal\Stone
+        Bishop Normal.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\Normal\Stone Bishop Normal.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Normal\Stone
+        Bishop Normal.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Normal\Stone
+        Horse Normal.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\Normal\Stone Horse Normal.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Normal\Stone
+        Horse Normal.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Normal\Stone
+        Horse Normal.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\Normal\Stone Horse Normal.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Normal\Stone
+        Horse Normal.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Normal\Stone
+        King Normal.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\Normal\Stone King Normal.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Normal\Stone
+        King Normal.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Normal\Stone
+        King Normal.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\Normal\Stone King Normal.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Normal\Stone
+        King Normal.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Normal\Stone
+        Pawn Normal.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\Normal\Stone Pawn Normal.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Normal\Stone
+        Pawn Normal.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Normal\Stone
+        Pawn Normal.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\Normal\Stone Pawn Normal.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Normal\Stone
+        Pawn Normal.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Normal\Stone
+        Queen Normal.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\Normal\Stone Queen Normal.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Normal\Stone
+        Queen Normal.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Normal\Stone
+        Queen Normal.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\Normal\Stone Queen Normal.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Normal\Stone
+        Queen Normal.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Normal\Stone
+        Rook Normal.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\Normal\Stone Rook Normal.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Normal\Stone
+        Rook Normal.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Normal\Stone
+        Rook Normal.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\Normal\Stone Rook Normal.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\Normal\Stone
+        Rook Normal.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\White Bishop.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\White Bishop.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\White
+        Bishop.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\White Bishop.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\White Bishop.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\White
+        Bishop.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\White Horse.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\White Horse.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\White
+        Horse.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\White Horse.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\White Horse.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\White
+        Horse.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\White King.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\White King.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\White
+        King.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\White King.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\White King.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\White
+        King.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\White Pawn.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\White Pawn.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\White
+        Pawn.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\White Pawn.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\White Pawn.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\White
+        Pawn.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\White Queen.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\White Queen.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\White
+        Queen.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\White Queen.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\White Queen.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\White
+        Queen.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\White Rook.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\White Rook.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\White
+        Rook.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\White Rook.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Chess piece\White Rook.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Chess piece\White
+        Rook.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Environemnt.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Bacl Flag.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Environemnt\Bacl Flag.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Bacl Flag.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Bacl Flag.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Environemnt\Bacl Flag.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Bacl Flag.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\FlagPole.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Environemnt\FlagPole.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\FlagPole.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\FlagPole.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Environemnt\FlagPole.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\FlagPole.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Normal maps.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Environemnt\Normal maps.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Normal
+        maps.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Normal maps\FlagPole  Normal.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Environemnt\Normal maps\FlagPole  Normal.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Normal
+        maps\FlagPole  Normal.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Normal maps\FlagPole  Normal.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Environemnt\Normal maps\FlagPole  Normal.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Normal
+        maps\FlagPole  Normal.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Normal maps\Stone
+        Bridge Normal.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Environemnt\Normal maps\Stone Bridge Normal.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Normal
+        maps\Stone Bridge Normal.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Normal maps\Stone
+        Bridge Normal.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Environemnt\Normal maps\Stone Bridge Normal.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Normal
+        maps\Stone Bridge Normal.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Normal maps\Stone
+        Chess Battlefield Normal.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Environemnt\Normal maps\Stone Chess Battlefield Normal.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Normal
+        maps\Stone Chess Battlefield Normal.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Normal maps\Stone
+        Chess Battlefield Normal.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Environemnt\Normal maps\Stone Chess Battlefield Normal.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Normal
+        maps\Stone Chess Battlefield Normal.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Normal maps\Stone
+        Pillars Normal.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Environemnt\Normal maps\Stone Pillars Normal.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Normal
+        maps\Stone Pillars Normal.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Normal maps\Stone
+        Pillars Normal.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Environemnt\Normal maps\Stone Pillars Normal.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Normal
+        maps\Stone Pillars Normal.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Stone Bridge.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Environemnt\Stone Bridge.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Stone
+        Bridge.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Stone Bridge.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Environemnt\Stone Bridge.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Stone
+        Bridge.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Stone Chess Battlefield.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Environemnt\Stone Chess Battlefield.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Stone
+        Chess Battlefield.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Stone Chess Battlefield.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Environemnt\Stone Chess Battlefield.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Stone
+        Chess Battlefield.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Stone Pillars.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Environemnt\Stone Pillars.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Stone
+        Pillars.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Stone Pillars.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Environemnt\Stone Pillars.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\Stone
+        Pillars.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\White Flag.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Environemnt\White Flag.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\White
+        Flag.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\White Flag.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Environemnt\White Flag.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Environemnt\White
+        Flag.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Icon.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Icon.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Icon.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Icon\Bishop.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Icon\Bishop.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Icon\Bishop.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Icon\Bishop.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Icon\Bishop.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Icon\Bishop.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Icon\Horse.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Icon\Horse.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Icon\Horse.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Icon\Horse.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Icon\Horse.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Icon\Horse.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Icon\King.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Icon\King.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Icon\King.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Icon\King.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Icon\King.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Icon\King.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Icon\Pawn.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Icon\Pawn.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Icon\Pawn.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Icon\Pawn.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Icon\Pawn.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Icon\Pawn.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Icon\Queen.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Icon\Queen.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Icon\Queen.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Icon\Queen.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Icon\Queen.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Icon\Queen.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Icon\Rook.png
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Icon\Rook.png
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Icon\Rook.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Tiny Chess Stone Chess Piece\Textures\Icon\Rook.png.meta
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\Tiny Chess Stone Chess
+        Piece\Textures\Icon\Rook.png.meta
+      projectPath: Assets\Tiny Chess Stone Chess Piece\Textures\Icon\Rook.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 28e971b33ddb6104018a70792ab31f6e567d541a
+    mergeA: 
+    mergeB: 
+    authorName: shalo1040
+    authorEmail: 53967900+shalo1040@users.noreply.github.com
+    commitEmail: 53967900+shalo1040@users.noreply.github.com
+    commitName: shalo1040
+    summary: Initial commit
+    description: 
+    timeString: 2019-11-05T22:12:42.000+09:00
+    commitTimeString: 2019-11-05T22:12:42.000+09:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\AR Programming\lab01\ChessInteraction\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\AR Programming\lab01\ChessInteraction\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\AR Programming\lab01\ChessInteraction\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
